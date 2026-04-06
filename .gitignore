@@ -1,0 +1,20 @@
+# igone files 
+
+# node modules
+node_modules/
+
+# build output
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs
+
+# env files
+.env
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
